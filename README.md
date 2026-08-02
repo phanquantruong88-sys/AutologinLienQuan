@@ -123,6 +123,7 @@
         <div class="badges">
             <img src="https://img.shields.io/badge/License-100%25%20FREE-brightgreen?style=for-the-badge" alt="License 100% FREE">
             <img src="https://img.shields.io/badge/Platform-Phone%20Farm%20%7C%20Giả%20Lập-blue?style=for-the-badge" alt="Platform Supported">
+            <a href="https://apqt.top" target="_blank"><img src="https://img.shields.io/badge/Website-APQT.TOP-FF4500?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Official Website"></a>
             <a href="https://t.me/APQTTOP" target="_blank"><img src="https://img.shields.io/badge/Contact-@APQTTOP-2CA5E0?style=for-the-badge&logo=telegram" alt="Contact Telegram"></a>
         </div>
 
@@ -205,13 +206,19 @@
             </div>
         </div>
 
-        <div class="mt-12 text-center border-t border-gray-800 pt-8">
-            <h2 class="border-none mt-0 text-2xl">📞 Liên Hệ & Hỗ Trợ</h2>
-            <p class="text-gray-400">Phát triển bởi <strong class="text-white">Trường Phan</strong>.</p>
-            <p class="text-gray-400 mb-6">Nếu bạn có bất kỳ thắc mắc nào hoặc cần hỗ trợ cấu hình kịch bản nâng cao, vui lòng liên hệ trực tiếp qua Telegram:</p>
-            <a href="https://t.me/APQTTOP" target="_blank" class="inline-flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-500 text-white font-bold py-3 px-8 rounded-full transition-transform hover:-translate-y-1 shadow-lg shadow-blue-500/30">
-                <i class="fa-brands fa-telegram text-2xl"></i> Liên hệ @APQTTOP
-            </a>
+        <div class="mt-12 text-center border-t border-gray-800 pt-8 flex flex-col items-center">
+            <h2 class="border-none mt-0 text-2xl mb-2">📞 Liên Hệ & Hỗ Trợ</h2>
+            <p class="text-gray-400 mb-2">Phát triển bởi <strong class="text-white">Trường Phan</strong>.</p>
+            <p class="text-gray-400 mb-6">Nếu bạn có bất kỳ thắc mắc nào, vui lòng tham khảo trang web hoặc liên hệ trực tiếp qua Telegram:</p>
+            
+            <div class="flex flex-col sm:flex-row justify-center gap-4 w-full sm:w-auto">
+                <a href="https://apqt.top" target="_blank" class="inline-flex items-center justify-center gap-2 bg-gray-800 hover:bg-gray-700 text-white font-bold py-3 px-8 rounded-full transition-transform hover:-translate-y-1 shadow-lg border border-gray-700">
+                    <i class="fa-solid fa-globe text-xl text-blue-400"></i> Xem Website: APQT.TOP
+                </a>
+                <a href="https://t.me/APQTTOP" target="_blank" class="inline-flex items-center justify-center gap-2 bg-blue-600 hover:bg-blue-500 text-white font-bold py-3 px-8 rounded-full transition-transform hover:-translate-y-1 shadow-lg shadow-blue-500/30">
+                    <i class="fa-brands fa-telegram text-2xl"></i> Liên hệ @APQTTOP
+                </a>
+            </div>
         </div>
     </div>
 </body>
