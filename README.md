@@ -2,7 +2,7 @@
 
 ## 🔥 Đa Luồng Multi-Login
 
-Điều khiển đồng thời hàng chục tab **LDPlayer** mà không bị chéo luồng.
+Điều khiển đồng thời hàng chục tab **LDPlayer, Phone** mà không bị chéo luồng.
 Hỗ trợ nhập danh sách **Tài khoản / Mật khẩu** cực nhanh từ **Text**
 hoặc **Excel**.
 
