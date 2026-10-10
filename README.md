@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo/logo.png" alt="APQT SYSTEM Logo" />
+  <img src="logo/logo.png" alt="APQT SYSTEM Logo" width="150" height="150" />
   
   # 👑 AUTO APQT AUTO LOGIN LIÊN QUÂN V2
   **Công Cụ Tự Động Đăng Nhập & Kiểm Tra Tài Khoản Hàng Loạt**
