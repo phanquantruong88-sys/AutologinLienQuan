@@ -30,7 +30,7 @@ Dự án được chia sẻ **100% MIỄN PHÍ**. Quản trị tập trung, an t
 
 Để thiết lập kịch bản đăng nhập, check nick, kết nối các loại thiết bị (giả lập/phone thật) và vận hành hệ thống một cách trơn tru nhất, vui lòng xem kỹ video hướng dẫn dưới đây trước khi bắt đầu:
 
-[![Video Hướng Dẫn APQT SYSTEM](https://img.youtube.com/vi/_b6KOYktfbc/maxresdefault.jpg)](https://youtu.be/_b6KOYktfbc?si=myWKegSUmK7QXXtV)  
+[![Video Hướng Dẫn APQT SYSTEM](png/img.png)](https://youtu.be/_b6KOYktfbc?si=myWKegSUmK7QXXtV)
 *(Click vào ảnh để xem video hướng dẫn trên YouTube)*
 
 ## 🛠️ Các Bước Sử Dụng
