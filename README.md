@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo/logo.png" alt="APQT SYSTEM Logo" width="150" height="150" />
+  <img src="logo/logo.png" alt="APQT SYSTEM Logo" />
   
   # 👑 AUTO APQT AUTO LOGIN LIÊN QUÂN V2
   **Công Cụ Tự Động Đăng Nhập & Kiểm Tra Tài Khoản Hàng Loạt**
@@ -26,16 +26,16 @@ Dự án được chia sẻ **100% MIỄN PHÍ**. Quản trị tập trung, an t
 - ⚙️ **Kiểm Soát Ứng Dụng Sâu:** Tương tác trực tiếp vào hệ thống Android: Tự động mở App, Xóa Data App để làm sạch cache (Clear data trước khi log nick mới), Cài file APK hàng loạt.
 - ⚡ **Auto Thiết Lập ADB:** Phần mềm thông minh tự nhận diện môi trường và tải ADB nếu cần, đảm bảo thiết bị thực và giả lập luôn sẵn sàng.
 
-## 📺 Video Hướng Dẫn Trực Quan
+## 📸 Hình Ảnh Minh Họa
 
-Để thiết lập kịch bản đăng nhập, check nick, kết nối các loại thiết bị (giả lập/phone thật) và vận hành hệ thống một cách trơn tru nhất, vui lòng xem kỹ video hướng dẫn dưới đây trước khi bắt đầu:
+Dưới đây là giao diện thiết lập kịch bản đăng nhập, check nick và quản lý thiết bị (giả lập/phone thật) để vận hành hệ thống:
 
-![APQT SYSTEM Logo](png/img.png)
+![Giao Diện APQT SYSTEM](png/img.png)
 
 ## 🛠️ Các Bước Sử Dụng
 
 1. **Tải Công Cụ (Free):** Tải toàn bộ mã nguồn của dự án này về máy tính và giải nén.
-2. **Học Cấu Hình:** Dựa vào Video Hướng Dẫn ở trên để biết cách quét kết nối ADB cho hệ thống Phone thật hoặc các loại giả lập khác nhau.
+2. **Cấu Hình & Kết Nối:** Bật chế độ ADB trên thiết bị và quét kết nối trên phần mềm để nhận diện hệ thống Phone thật hoặc các loại giả lập.
 3. **Chuẩn Bị Dữ Liệu:** Nhập danh sách tài khoản (Tài khoản|Mật khẩu) vào file cấu hình.
 4. **Khởi Động:** Mở ứng dụng, cài đặt danh sách thiết bị, chọn kịch bản (Auto Login / Check Nick) và nhấn **CHẠY AUTO** để hệ thống tự động làm việc!
 
